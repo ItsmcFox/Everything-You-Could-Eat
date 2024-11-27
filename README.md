@@ -2,3 +2,10 @@
 Everything you can eat is a mod that adds more food to minecraft.
 To install go to modrinth @ https://modrinth.com/mod/everything-you-could-eat or download the latest release from here. 
 This mod is mainly for neoforge (1.21.1) but forge support (1.20.1) may come soon.
+
+## How to install:
+
+Get the modrinth app (not required, but easier), intall neoforge @ https://projects.neoforged.net/neoforged/neoforge (for minecraft launcher), or use another launcher
+For minecraft launcher go to the mods folder (usally located at C:\Users\[username]\AppData\Roaming.minecraft\mods) and download then place the mod there.
+For modrinth search for the mod then add to instance
+Other launchers, *idk* figure it out
