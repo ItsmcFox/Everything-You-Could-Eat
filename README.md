@@ -5,7 +5,10 @@ This mod is mainly for neoforge (1.21.1) but forge support (1.20.1) may come soo
 
 ## How to install:
 
-Get the modrinth app (not required, but easier), intall neoforge @ https://projects.neoforged.net/neoforged/neoforge (for minecraft launcher), or use another launcher
+Get the modrinth app (not required, but easier), install neoforge @ https://projects.neoforged.net/neoforged/neoforge (for minecraft launcher), or use another launcher
 For minecraft launcher go to the mods folder (usally located at C:\Users\[username]\AppData\Roaming.minecraft\mods) and download then place the mod there.
 For modrinth search for the mod then add to instance
 Other launchers, *idk* figure it out
+
+You may not use the textures, as I made all of the textures by myself. Don't redistribute the mod, especially if you will make money from it. If you want the mod on a different platform 
+tell me.
