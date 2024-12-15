@@ -2,8 +2,6 @@
     "homepage": "https://github.com/ItsmcFox/Everything-You-Could-Eat/releases",
     "promos": {
       "<mcversion>-latest": "0.3.2",
-      // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
       "<mcversion>-recommended": ""
-      // Declare the latest "stable" version of your mod for the given Minecraft version
     }
   }
